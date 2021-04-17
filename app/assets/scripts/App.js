@@ -1,1 +1,1 @@
-alert('Heelo this is Marjo!!!');
+import '../styles/styles.css';

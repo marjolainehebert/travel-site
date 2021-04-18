@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \**************************************/
 /***/ (() => {
 
-eval("throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n> @import 'normalize.css';\\n| @import 'base/_variables';\\n| @import 'base/_mixins';\");\n\n//# sourceURL=webpack://travel-site/./app/assets/styles/styles.css?");
+eval("throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n> @import \\\"normalize.css\\\";\\n| @import \\\"base/_variables\\\";\\n| @import \\\"base/_mixins\\\";\");\n\n//# sourceURL=webpack://travel-site/./app/assets/styles/styles.css?");
 
 /***/ })
 
